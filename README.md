@@ -1,12 +1,7 @@
-IXD101 Interaction Design Fundamentals
-======================================
+IXD101 Interaction design fundmentals 
+=====================================
 
 John Baskerville
 ----------------
 
-- [Baskerville 1](https://deirbhilekennedy.github.io/john_baskerville/baskerville1.html)
-
-
-
-History of Type
----------------
+- [john baskerville 03 - markup](https://deirbhilekennedy.github.io/baskerville3.html)
