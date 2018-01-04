@@ -4,9 +4,9 @@ IXD101 Interaction design fundmentals
 John Baskerville
 ----------------
 
-- [john baskerville 01](https://deirbhilekennedy.github.io/baskerville1)
-- [john baskerville 02](https://deirbhilekennedy.github.io/baskerville.2)
-- [john baskerville 03](https://deirbhilekennedy.github.io/baskerville.3)
-- [john baskerville 04](https://deirbhilekennedy.github.io/baskerville.4)
-- [john baskerville 05](https://deirbhilekennedy.github.io/baskerville.5)
-- [john baskerville 06](https://deirbhilekennedy.github.io/baskerville.6)
+- [baskerville1](https://deirbhilekennedy.github.io/baskerville1) 
+- [baskerville.2](https://deirbhilekennedy.github.io/baskerville.2)
+- [baskerville.3](https://deirbhilekennedy.github.io/baskerville.3)
+- [baskerville.4](https://deirbhilekennedy.github.io/baskerville.4)
+- [baskerville.5](https://deirbhilekennedy.github.io/baskerville.5)
+- [baskerville.6](https://deirbhilekennedy.github.io/baskerville.6)
