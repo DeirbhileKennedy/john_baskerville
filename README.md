@@ -16,7 +16,7 @@ A Brief History Of Type
 -----------------------
 
 - [History Of Type 1](https://deirbhilekennedy.github.io/john_baskerville/history_of_type.1)
-- [History Of Type 2]
-- [History Of Type 3]
-- [History Of Type 4]
-- [History Of Type 5]
+- [History Of Type 2](https://deirbhilekennedy.github.io/john_baskerville/history_of_type.2)
+- [History Of Type 3](https://deirbhilekennedy.github.io/john_baskerville/history_of_type.3)
+- [History Of Type 4](https://deirbhilekennedy.github.io/john_baskerville/history_of_type.4)
+- [History Of Type 5](https://deirbhilekennedy.github.io/john_baskerville/history_of_type.5)
