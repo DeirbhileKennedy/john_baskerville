@@ -15,7 +15,7 @@ John Baskerville
 A Brief History Of Type 
 -----------------------
 
--[History Of Type 1](https://github.com/DeirbhileKennedy/john_baskerville/blob/gh-pages/History%20of%20Type.1.html)
+-[History Of Type 1](https://deirbhilekennedy.github.io/john_baskerville/HistoryofType.1.html)
 -[History Of Type 2]
 -[History Of Type 3]
 -[History Of Type 4]
