@@ -1,68 +1,69 @@
 /*-----CSS RESET-----*/
 * {
-    padding: 5;
-    margin: 30;
+    padding: 10;
+    margin: 3;
     font-size: 100%;
     line-height: 1em;
 }
 
 body {
-    width: 75%;
-    max-width: 500px;
-    font-family: 'Libre Baskerville', serif;
-    background: #ffffff ;
-    color: #666666;
-    line-height: 1em;
+    width: 100%;
+    max-width: 650px;
+    font-family: 'Georgia', sans-serif;
+    background:   #999999 ;
+    color: #ffffff;
+    line-height: 0.01em;
     margin: auto;
 }
 
 header {
-    margin: 15em 0;
+    margin: 20em 0;
 }
 
 header h2{
-    font-style: italic;
+    font-style: normal;
     font-size:2em;
-    color: #ff6666;
+    color: #ffffff;
 }
 
 h1, h2, h3 {
     font-weight: bold;
-    color:   #cc0000;
-    text-align: left;
+    color:   #e0e0eb;
+    text-align: center;
 }
 
 /*-----TYPOGRAPHY-----*/
 
 p, li, blockquote {
-    margin-bottom: 1.5em;
+    margin-bottom: 5em;
     line-height: 1.7;
 }
 
 p {
     font-family: 'Roboto', sans-serif;
+   
 }
 
 h1 {
     font-size: 6em;
     margin-top: 3em;
-    margin-bottom: .2Sem;
+    margin-bottom: .3Sem;
 }
 
 h2 {
     font-size: 2em;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
 }
 
 blockquote {
-    padding: 1em 0 4em 0;
-    font-size: 1.5em;
+    padding: 1em 0 0em 0;
+    font-size: 3em;
     line-height: 1em;
     color:	  #404040;
 }
 
 blockquote cite {
-    font-size: .75em;
+    font-size: .60em;
 }
 
 /*-----LINKS-----*/
@@ -87,23 +88,23 @@ nav{
     margin:0;
     width:100%;
     background-color:  #404040;
-    padding:1em 0;
+    padding:0em 0;
 }
 
 nav ul {
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 nav ul li {
     display:inline;
-    margin:20px;
+    margin:30px;
 }
 
 nav a:hover {
     border-bottom: none;
-    color:#cc0000;
+    color:#9494b8;
 }
 
 /*-----IMAGES-----*/
@@ -111,23 +112,50 @@ nav a:hover {
 img {
     display:block;
     margin: 1.2em auto;
-    padding:0;
-    max-width:100%;
+    padding:1.5;
+    max-width:80%;
+
 }
+
+/*-----TABLE------*/
+
+table {
+    border-collapse: collapse;
+    table-layout: inherit;
+    width: 100%;
+    white-space:nowrap
+    <table style="font-family:georgia;"
+
+}
+
+.users td {
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow: clip
+}
+
+
+
+
+
+
+
+
+
 
 /*-----FOOTER-----*/
 
 footer {
     text-align: center;
-    font-size: .75em;
+    font-size: .55em;
     line-height: 1.5em;
-    padding-bottom: 2em;
+    padding-bottom: 0em;
 }
 
 footer hr {
-    margin-bottom: 5em 0;
+    margin-bottom: 0em 0;
 }
 
 footer p {
-    margin-top:2em;
+    margin-top:8em;
 }
