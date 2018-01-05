@@ -4,7 +4,7 @@ IXD101 Interaction design fundmentals
 John Baskerville
 ----------------
 
-- [baskerville1](baskerville1.html) 
+- [baskerville1](https://deirbhilekennedy.github.io/john_baskerville/baskerville1.html1) 
 - [baskerville.2](john_baskerville/baskerville.2.html)
 - [baskerville.3](john_baskerville/baskerville.3.html)
 - [baskerville.4](john_baskerville/baskerville.4.html)
